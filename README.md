@@ -74,4 +74,7 @@
 
 ## Installation & Setup
 
-Clone the repository:
+Clone the repository and Run the Artisan commands
+PHP ARTISAN OPTIMIZE
+PHP ARTISAN MIGRATE
+PHP ARTISAN SERVE
